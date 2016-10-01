@@ -16,3 +16,6 @@ Steps:
 == Test an update ==
 This line is an update. I cloned straight from Tori's master on this 
 one.
+
+== Test another update
+Here's some stuff I appended to the end of this file.
